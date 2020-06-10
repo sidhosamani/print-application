@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'print-application';
+  barcodeList = ['12132112412', '1221124124124', '5346363464363']
 }
